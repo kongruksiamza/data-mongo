@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "61335a62f6c9d148a419fe36"
+  },
+  "name": "ก้อง",
+  "salary": 60000,
+  "address": "กรุงเทพมหานคร",
+  "general": {
+    "weight": 60,
+    "height": 170,
+    "gender": "ชาย"
+  },
+  "social": [
+    "facebook",
+    "line",
+    "twitter"
+  ],
+  "department": "ฝ่ายการตลาด"
+},{
+  "_id": {
+    "$oid": "6133601501d0116368d6ccd5"
+  },
+  "name": "สมชาย",
+  "salary": 40000,
+  "address": "ชลบุรี",
+  "general": {
+    "weight": 70.5,
+    "height": 178.6,
+    "gender": "ชาย"
+  },
+  "social": [
+    "facebook",
+    "line"
+  ],
+  "department": "โปรแกรมเมอร์"
+},{
+  "_id": {
+    "$oid": "613362ea01d0116368d6ccd6"
+  },
+  "name": "สกาวใจ",
+  "salary": 15000,
+  "address": "กรุงเทพมหานคร",
+  "general": {
+    "weight": 49,
+    "height": 165,
+    "gender": "หญิง"
+  },
+  "social": [
+    "facebook",
+    "line"
+  ],
+  "department": "ฝ่ายขาย"
+},{
+  "_id": {
+    "$oid": "6133640201d0116368d6ccd7"
+  },
+  "name": "ญัฐวุติ",
+  "salary": 45000,
+  "address": "กรุงเทพมหานคร",
+  "general": {
+    "weight": 49,
+    "height": 168,
+    "gender": "ชาย"
+  },
+  "social": [
+    "facebook",
+    "line",
+    "instagram"
+  ],
+  "department": "วิศวกร"
+},{
+  "_id": {
+    "$oid": "6133643801d0116368d6ccd8"
+  },
+  "name": "สุดารัตน์",
+  "salary": 15000,
+  "address": "ระยอง",
+  "general": {
+    "weight": 49,
+    "height": 168,
+    "gender": "หญิง"
+  },
+  "social": [
+    "facebook",
+    "line",
+    "instagram"
+  ],
+  "department": "ฝ่ายขาย"
+},{
+  "_id": {
+    "$oid": "613365b101d0116368d6ccd9"
+  },
+  "name": "คมกริช",
+  "salary": 40000,
+  "address": "ระยอง",
+  "general": {
+    "weight": 52,
+    "height": 175,
+    "gender": "ชาย"
+  },
+  "social": [
+    "facebook",
+    "line",
+    "instagram"
+  ],
+  "department": "โปรแกรมเมอร์"
+},{
+  "_id": {
+    "$oid": "6133673801d0116368d6ccdb"
+  },
+  "name": "เกษตรสันต์",
+  "salary": 45000,
+  "address": "เชียงใหม่",
+  "general": {
+    "weight": 52,
+    "height": 175,
+    "gender": "ชาย"
+  },
+  "social": [
+    "facebook"
+  ],
+  "department": "วิศวกร"
+},{
+  "_id": {
+    "$oid": "613367be01d0116368d6ccdc"
+  },
+  "salary": 40000,
+  "address": "ลพบุรี",
+  "general": {
+    "weight": 52,
+    "height": 169,
+    "gender": "หญิง"
+  },
+  "social": [
+    "facebook",
+    "line",
+    "instagram",
+    "twitter"
+  ],
+  "department": "โปรแกรมเมอร์",
+  "name": "แจ๋ม"
+},{
+  "_id": {
+    "$oid": "61337f4d01d0116368d6ccdd"
+  },
+  "name": "สมหมาย",
+  "salary": 15000,
+  "address": "กรุงเทพมหานคร",
+  "general": {
+    "weight": 55,
+    "height": 169,
+    "gender": "ชาย"
+  },
+  "social": [
+    "facebook",
+    "line"
+  ],
+  "department": "ฝ่ายขาย"
+},{
+  "_id": {
+    "$oid": "61337f9e01d0116368d6ccde"
+  },
+  "name": "มะลิ",
+  "salary": 18000,
+  "address": "กระบี่",
+  "general": {
+    "weight": 55,
+    "height": 165,
+    "gender": "หญิง"
+  },
+  "social": [
+    "facebook",
+    "line"
+  ],
+  "department": "ฝ่ายการเงิน"
+}]
